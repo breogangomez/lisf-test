@@ -214,7 +214,7 @@ write(*, *)
 #endif
 
 
-Else    ! water. inland  fresh water body, smooth surface  
+else    ! water. inland  fresh water body, smooth surface  
 
   tb_veg = 0.0
   tb_soil = 0.0
